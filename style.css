@@ -3,5 +3,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  color: rgb(62, 6, 114);
+  color: rgb(10, 114, 6);
+  font-family: sans-serif;
+  font-style: italic;
 }
